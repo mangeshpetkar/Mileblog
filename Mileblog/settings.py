@@ -22,7 +22,7 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 SECRET_KEY = 'e(&fw44b&jlj*4(^lxdilp6431hkc9w*k0mtbw0us439*37oua'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['milestory-marathi.herokuapp.com','127.0.0.1']
 
